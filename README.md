@@ -1,7 +1,3 @@
-# next-js-dashboard
-Next.js User Dashboard with SSR
-
-
 # Next.js User Dashboard
 
 A Next.js application that displays a list of users fetched from a public API using Server-Side Rendering (SSR).
